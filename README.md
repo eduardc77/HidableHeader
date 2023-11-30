@@ -14,7 +14,7 @@
 ## Preview
 
 <p align="left">
-	<img src="./Preview/preview.mp4" width="260" height="500"/>
+	<img src="./Preview/Preview.mp4" width="260" height="500"/>
 </p>
 
 
