@@ -19,7 +19,7 @@
 
 
 ## Description
-A SwiftUI animated header which is hidden on scroll down and visible on scroll up or on scroll has ended.
+A SwiftUI animated header which hides on scroll down and visible on scroll up or when scrolling ends.
 
 ## Built with:
 - Foundation
